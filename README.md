@@ -1,2 +1,2 @@
-# laboratorio-4---parte-2
-laboratorio 4 - parte 2
+# lab4_20182
+Practica 4 Informática 2 2018_2
