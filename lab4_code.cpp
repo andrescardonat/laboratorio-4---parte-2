@@ -3,8 +3,8 @@
 *  Prof: Juan Camilo Correa Chica
 *  Fecha: Octubre 1/2018 - Octubre 8/2018
 *  Plazo máximo para enviar enlace para clonar el repositorio: 
-*  Estudiante1: Nombres y apellidos completos
-*  Estudiante2: Nombres y apellidos completos (Opcional, puede trabajar individualmente)
+*  Estudiante1: Andres David Cardona Tamayo
+*  Estudiante2: Esteban Donelly Ochoa 
 *  Fecha del ultimo Commit en GitHub: Agregue la fecha y hora del ultimo Commit (aproximada)
 
 * 1.Implementar un sistema de reserva de tiquetes de un crucero, que tiene 3 alternativas de ubicación en los camarotes del buque: Clase Económica, 
